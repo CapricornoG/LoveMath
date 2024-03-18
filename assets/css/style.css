@@ -1,7 +1,7 @@
 /* --------- Global style */
 
 body {
-    background-color: white;
+    background-color: #7f7f7f;
     font-family: "Raleway", sans-serif;
     color: #445361;
     text-align: center;
@@ -90,9 +90,10 @@ body {
     width: 220px;
     height: 60px;
     font-family: "Raleway", sans-serif;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1.2px;
-    color: white;
+    color: blue;
 }
 
 .btn:focus {
